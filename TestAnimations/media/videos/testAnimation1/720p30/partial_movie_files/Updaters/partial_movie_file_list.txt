@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/pedro-marques/ManimAnimations/TestAnimations/media/videos/testAnimation1/720p30/partial_movie_files/Updaters/2016333726_766878885_223132457.mp4'
+file 'file:/home/pedro-marques/ManimAnimations/TestAnimations/media/videos/testAnimation1/720p30/partial_movie_files/Updaters/543634251_2165169600_2009075659.mp4'
+file 'file:/home/pedro-marques/ManimAnimations/TestAnimations/media/videos/testAnimation1/720p30/partial_movie_files/Updaters/543634251_996584903_2282465339.mp4'
+file 'file:/home/pedro-marques/ManimAnimations/TestAnimations/media/videos/testAnimation1/720p30/partial_movie_files/Updaters/543634251_1704852926_415454799.mp4'
+file 'file:/home/pedro-marques/ManimAnimations/TestAnimations/media/videos/testAnimation1/720p30/partial_movie_files/Updaters/543634251_856454077_2212552340.mp4'
