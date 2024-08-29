@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/pedro-marques/ManimAnimations/TestAnimations/media/videos/animated_square_circle/720p30/partial_movie_files/different_rotations/2016333726_3545243935_1715939352.mp4'
+file 'file:/home/pedro-marques/ManimAnimations/TestAnimations/media/videos/animated_square_circle/720p30/partial_movie_files/different_rotations/543634251_1704852926_793238203.mp4'
+file 'file:/home/pedro-marques/ManimAnimations/TestAnimations/media/videos/animated_square_circle/720p30/partial_movie_files/different_rotations/543634251_966970500_4217283943.mp4'
+file 'file:/home/pedro-marques/ManimAnimations/TestAnimations/media/videos/animated_square_circle/720p30/partial_movie_files/different_rotations/543634251_1704852926_1378305967.mp4'
